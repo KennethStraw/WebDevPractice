@@ -1,0 +1,50 @@
+p, a {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;  
+}
+
+div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.flexbox1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
+
+.lightpink {
+    background-color: lightpink;
+}
+
+.item1 {
+    width: 200px;
+}
+
+.item2 {
+    width: 75px;
+}
+
+.flexbox2{
+    display:flex;
+    flex-direction: row;
+}
+
+.item3 {
+    width: 50px;
+}
+
+.item4 {
+    flex: 1;
+}
+
+.flexbox3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

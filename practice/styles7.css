@@ -1,0 +1,104 @@
+.cat7a {
+    width: 200px;
+    border-radius: 20px;
+}
+
+.cat7b {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.cat7c {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 200px;
+}
+
+.search {
+    color: rgb(66, 66, 66); 
+    border-radius: 2px;
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+.SearchGoogle {
+    font-size: 16px;
+    width: 500px;
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.f7 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: red;
+    border-width: 1px;
+    width: 400px;
+    height: 200px;
+}
+
+.OuterText {
+    color: gray;
+    font-size: 12px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.EmailEnter {
+    margin-top: 4px;
+    border-width: 1.5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    margin-bottom: 10px;
+    width: 280px;
+    padding: 3px;
+}
+
+.AgreeButton {
+    margin-top: 10px;
+    color: white;
+    font-weight: 500px;
+    font-size: 16px;
+    background-color: rgb(64, 104, 189);
+    border: none;
+    border-radius: 20px;
+    padding: 10px 105px;
+}
+
+.g7 {
+    width: 350px;
+    height: 30px;
+    vertical-align: middle;
+}
+
+.cat7g {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.What {
+    font-size: 18px;
+    border: 0;
+}
+
+.Tweet {
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(29, 155, 240);
+    border: 0;
+    border-radius: 30px;
+    padding: 8px 16px;
+}

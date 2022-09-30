@@ -1,0 +1,89 @@
+.Uber {
+    color: white;
+    background-color: black;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+    transition: opacity 1s;
+}
+
+.Uber:hover{
+    opacity: 70%;
+}
+
+.Amazon {
+    color: Black;
+    background-color: rgb(255,216,20);
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 70px;
+    padding-right: 70px;
+    cursor: pointer;
+    transition: background-color .5s;
+}
+
+.Amazon:hover{
+    background-color: rgb(255, 235, 20);
+}
+
+.BootstrapGS{
+    color: white;
+    background-color: rgb(121,82,179);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.BootstrapDN{
+    color: rgb(108, 117, 125);
+    background-color: white;
+    border-color: rgb(108, 117, 125);
+    border-width: 1px;
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 15px;
+    font-weight:bold;
+}
+
+a {
+    font-size: large;
+}
+
+.Nike {
+    font-size: 30px;
+    font-weight: bold;
+    bottom: 50px;
+}
+.delivery{
+    font-size: 18px;
+}
+
+.BuyNow {
+    color: Black;
+    background-color: rgb(255,164,285w5);
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 70px;
+    padding-right: 70px;
+    cursor: pointer;
+    transition: background-color .5s;
+}

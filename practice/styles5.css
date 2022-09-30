@@ -1,0 +1,159 @@
+.font5a {
+    font-family: Tahoma;
+}
+
+.Arial {
+    font-family: Arial;
+    font-size: large;
+}
+
+.Arialspan {
+    color: red;
+    font-style: italic;
+    font-size: medium;
+}
+
+.font5c {
+    font-family: Verdana;
+    margin: 0px;
+    width: 350px;
+}
+
+.Title{
+    font-weight: bold;
+
+}
+.Subtitle {
+    margin: 0px;
+    margin-top: 5px;
+    color: rgb(143, 143, 143);
+}
+.Base { 
+    font-size: 18px;
+}
+
+.GetStarted{
+    border: none;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    padding: 8px 16px;
+    border-radius: 10px;
+}
+
+.font5d {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.Shopping{
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.ShoppingSub {
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.LearnMore {
+    text-decoration: none;
+} 
+
+.font5e {
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.New {
+    color: rgb(236, 95, 0);
+    margin-bottom: 0px;
+}
+
+.MacBookPro {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+.SuperchargedForPros { 
+    font-weight: bolder;
+    margin-top: 0px;
+    font-size: 36px;
+    margin-bottom: 0px;
+}
+
+.FromPrice {
+    margin-top: 8px;
+    color: gray;
+}
+
+.BuyButton {
+    color: white;
+    font-size: 16px;
+    background-color: rgb(93, 129, 194);
+    padding: 6px 16px;
+    border: none;
+    border-radius: 30px;
+}
+
+.font5f {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+.StockPrice {
+    font-size: 32px;
+    margin-bottom: 5px;
+}
+.USD {
+    font-size: 16px;
+    color: darkgray;
+}
+
+.PctChange {
+    margin-top: 0px;
+    color: green;
+    margin-bottom: 5px;
+}
+
+.AfterHours{
+    margin-top: 5px;
+    color: rgb(112, 112, 112);
+}
+.PctAfterHours {
+    color: red;
+}   
+
+.font5g{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    width: 550px;
+}
+.Email {
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+
+.EmailDomain {
+    font-weight: lighter;
+    color: rgb(114, 114, 114);
+}
+
+.FirstP {
+    margin-top: 0px;
+}
+
+.SecondP {
+
+}
+
+.RefEmail {
+    color: rgb(0, 132, 255);
+}

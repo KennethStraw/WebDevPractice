@@ -1,0 +1,49 @@
+.lesson4a-e{
+    margin-top: 15px;
+    height: 100px;
+    width: 500px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    font-size: 14px;
+    margin: 5px;
+    padding: 0px;
+    padding-top: 10px;
+}
+.SubscribeButton{
+    margin-left: 5px;
+    background-color: #cc0000;
+    border: none;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 2px;
+    animation: fadeIn 2s;
+    text-transform: uppercase;
+}
+
+.SubscribeButton:hover{
+    opacity: .8;
+    cursor: pointer;
+}
+
+.JoinButton{
+    background-color: white;
+    color: #065fd4;
+    border-color: #065fd4;
+    padding: 9px 15px;
+    border-width: .8px;
+    border-radius: 2px;
+}
+
+.TweetButton{
+    color: white;
+    background-color: #1d9bf0;
+    padding: 7px 16px;
+    border: none;
+    border-radius: 50px;
+}
+
+@Keyframes fadeIn{
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}

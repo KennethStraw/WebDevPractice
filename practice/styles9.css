@@ -1,0 +1,154 @@
+.prac9 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+.redSquare {
+    width: 50px;
+    height: 50px;
+    background: red;
+}
+
+.greenCircle {
+    width: 50px;
+    height: 50px;
+    background: green;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+
+.satisfied {
+    margin-top: 10px;
+    border: 1px solid black;
+    height: 90px;
+    margin-left: 5px;
+    padding-left: 15px;
+    display: inline-block;
+    width: 300px;
+}
+
+.satisfiedText{
+    margin-top: 10px;
+    font-size: large;
+    margin-bottom: 12px;
+}
+
+.installMusic{
+    margin-top: 10px;
+    background-color: rgb(43, 43, 43);
+    width: 370px;
+    padding: 18px 14px;
+}
+ 
+.ytm{
+    color:white;
+    font-size: x-large;
+    font-weight: bold;
+    margin: 0%;
+    margin-bottom: 10px;
+}
+.ytmdesc {
+    margin: 0%;
+    font-size: 16px;
+    color: rgb(139, 138, 138);
+}
+
+.tweet {
+    margin-top: 20px;
+    height: 40px;
+    width: 320px;
+    background-color: rgba(1,250,1,0);
+    padding: 20px 15px;
+    border: 1px transparent gray;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+.catimg {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    vertical-align: middle;
+}
+
+.tweetbox{
+    border: none;
+    color: gray;
+    background-color: none;
+    margin: 0px 0px;
+    margin-left: 6px;
+    font-size: 16px;
+}
+
+.tweetbutton {
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(29, 155, 240);
+    border: 0;
+    border-radius: 30px;
+    padding: 8px 16px;
+}
+
+.friendRequest {
+    margin: 30px 5px;
+    width: 200px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .3);
+    display: inline-block;    
+}
+
+.pfp{
+    width: 100%;
+    object-fit: cover;
+    background-position: center center;
+}
+
+.fbname {
+    margin: 4px 6px;
+    font-weight: bold;
+}
+.friendcount {
+    margin: 4px 6px;
+    font-size: 12px;
+    color: gray;
+}
+
+.addfriend {
+    margin: 8px 6px;
+    padding: 4px 12px;
+    background-color: rgb(73, 106, 177);
+    font-size: 14px;
+    border: 0px ;
+    color: white;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 6px;
+}
+
+.Goooglepage{
+    display: block;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.Google {
+    width: 200px;
+    margin: 10px 0px;
+}
+.GoogleSearch {
+    margin-top: 5px;
+    width: 500px;
+    display: block;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    padding: 12px 15px;
+    border-style: solid;
+    border-width: .5px;
+    border-radius: 30px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    margin-left: auto;
+    margin-right: auto
+}
+

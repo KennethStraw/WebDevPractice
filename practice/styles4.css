@@ -1,0 +1,68 @@
+.next {
+    color: red;
+    display: inline-block;
+}
+.pagination {
+    margin: 10px;
+}
+
+.Backbutton, .Nextbutton {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Stretch {
+    background-color: Green;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: White;
+    display: inline-block;
+    padding: 5px 10px;
+    transition: padding 1s;
+    margin-bottom: 6px;
+}
+
+.Stretch:hover{
+    cursor: pointer;
+    padding: 20px 40px;
+}
+
+.Shadow {
+    border: 0px;
+    color: white;
+    background-color: green;
+    padding: 5px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    box-shadow: 3px 3px 3px rgb(160, 160, 160);
+    margin-bottom: 10px;
+}
+
+.Shadow:hover{
+    cursor: pointer;
+}
+
+.Shadow:active{
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.One, .Two, .Three {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    background-color: green;
+    border: none;
+    padding: 8px 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+    transition: padding .15s, margin .15s;
+}
+
+.One:hover, .Two:hover, .Three:hover{
+    padding: 8px 25px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
