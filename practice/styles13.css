@@ -1,0 +1,171 @@
+.nest-flex1 { 
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.lightpink {
+    background-color: lightpink;
+    width: 100px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    margin: 0%;
+    background-color: black;
+    color: white;
+}
+
+.lightblue {
+    background-color: lightblue;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.item1 {
+    background-color: black;
+    color: white;
+}
+
+.row2 {
+    display: flex;
+
+    justify-content: space-between;
+}
+
+.inboxmsgcontainer {
+    border: none;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 6px;
+}
+
+.infosection {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.headertext {
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.fromimg {
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    margin-right: 15px;
+}
+
+
+.textsection {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.toptext {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Title {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.Time {
+    color: gray;
+    margin-right: -1in;
+}
+
+.Subtitle {
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+
+.Body {
+    color: gray;
+    margin-bottom: 2px;
+}
+
+.tweetcontainer {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 400px;
+}
+
+.tweetinfocontainer {
+    display: flex;
+    flex-direction: column;   
+}
+
+.twitterpfpcontainer {
+    margin-right: 8px;
+}
+.twitterpfp {
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;   
+    object-fit: cover;
+}
+
+.tweetinfo {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.senderinfo {
+    font-weight: bold;
+}
+
+.handle {
+    font-weight: 400;
+    color: rgb(128, 128, 128);
+}
+
+.hyperlinkcontainer {
+    border: solid 1px lightgray;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+}
+
+.thumbnailcontainer {
+    background-color: lightgray;
+    height: 60px;
+    width: 60px;
+    padding: 10px 20px;
+    border-radius: 10px 0 0 10px;
+    border-right: none;
+    overflow: hidden;
+}
+
+.hyperlinkinfo {
+    padding-top: 8px;
+    border: solid 1px lightgray;
+    padding-left: 10px;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.hyperlink-domain {
+    color: gray;
+}

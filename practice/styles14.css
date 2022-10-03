@@ -1,0 +1,167 @@
+body {
+    height: 3000px;
+}
+
+a {
+    z-index: 4;
+}
+.bottom-right {
+    position: fixed;
+    color: white;
+    background-color: black;
+    bottom: 20px;
+    right: 20px;
+}
+
+.green-sidebar {
+    background-color: green;
+    color: white;
+    width: 100px;
+    position:fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.overlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0,0,0,0.5);
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.Modal {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 300px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    border-radius: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Modal-title {
+    font-weight: bold;
+    font-size: larger;
+    margin-bottom: 10px;
+}
+
+.Modal-desc {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    position: fixed;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between; 
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 14px 50px;
+}
+
+.leftsection {
+    display: flex;
+    align-items: center;
+}
+
+.pfp {
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+
+.profilename {
+    font-weight: bold;
+}
+
+.friend, .message {
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    padding: 8px 18px;
+    margin-left: 3px;
+}
+
+.friend {
+    color: white;
+    background-color: rgb(61, 115, 185);
+}
+
+.doublesidebar {
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(36, 35, 35);
+}
+
+.channelselector {
+    padding: 14px 14px;
+    display: flex;
+    flex-direction: column;
+}
+
+.serverpic {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border-radius:  30px;
+}
+
+.text-channelselector {
+    background-color: rgb(52, 52, 58);
+    display: flex;
+    flex-direction: column;
+    padding: 10px 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 140px;
+}
+
+.infoline {
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    justify-content: space-between;
+    color: gray;
+}
+
+.info {
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.plus {
+    color: lightgray;
+    background: none;
+    font-size: larger;
+    font-weight: bold;
+    border: none;
+    padding: none;
+}
+
+.textchannels {
+    margin-top: 12px;
+    color: rgb(155, 155, 155);
+}
